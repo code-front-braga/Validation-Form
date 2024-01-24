@@ -12,10 +12,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-image: url('/assets/img/background.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
   font-family: 'Inconsolata', monospace;
   color: #fff;
 }
